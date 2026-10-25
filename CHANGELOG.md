@@ -2,6 +2,10 @@
 
 All notable changes to `asignua/filament-row-layout` are documented here.
 
+## v1.0.1 - 2026-10-25
+
+- Screenshots and the cover carry the «made in asign» mark; README shows the Stand With Ukraine badge.
+
 ## v1.0.0 - 2026-10-08
 
 First release.
