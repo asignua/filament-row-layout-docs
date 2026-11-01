@@ -317,6 +317,15 @@ includes:
 composer test
 ```
 
+## More plugins by asign
+
+- [Spreadsheet Grid](https://filamentphp.com/plugins/asign-spreadsheet-grid) — editable spreadsheet-style table
+- [XLSX Export](https://filamentphp.com/plugins/asign-xlsx-export) — spreadsheet exports for tables
+- [Group Summaries](https://filamentphp.com/plugins/asign-group-summaries) — summaries in table group headers
+- [Themes](https://filamentphp.com/plugins/asign-themes) — per-user and per-panel colour themes
+
+All plugins: <https://filamentphp.com/plugins?q=asign>
+
 ## Licence
 
 Proprietary. See [LICENSE.md](https://github.com/asignua/filament-row-layout-docs/blob/main/LICENSE.md).
